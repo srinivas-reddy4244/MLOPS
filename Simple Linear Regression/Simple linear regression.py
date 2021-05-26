@@ -113,7 +113,7 @@ mind.coef_
 
 # In[47]:
 
-
+#to save our model
 import joblib
 
 
